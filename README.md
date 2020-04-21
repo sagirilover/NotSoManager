@@ -11,5 +11,8 @@ It can either enter data into the already open Steam window, and start and resta
 ![Showcase](https://i.ibb.co/f2h639m/f-PJKSlja-IT.gif)
 ![Screenshot](https://i.ibb.co/QkJSYPF/NVIDIA-Share-NPu9-KMq-Bh-X.png)
 
+### Known issues
+You need switch language to english before logging.
+
 ### TODO
 - Add steam API support for checking bans.

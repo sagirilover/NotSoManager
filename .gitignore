@@ -1,0 +1,12 @@
+
+.vs/NotSoManager/v16/
+
+NotSoManager/bin/Debug/
+
+NotSoManager/bin/Release/
+
+*.cache
+
+NotSoManager/obj/Debug/
+
+NotSoManager/obj/Release/

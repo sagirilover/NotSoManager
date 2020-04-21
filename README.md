@@ -14,5 +14,8 @@ It can either enter data into the already open Steam window, and start and resta
 ### Known issues
 You need switch language to english before logging.
 
+### QA
+Path to saved accounts __C:\Users\{User}\Documents\sagirimanager__
+
 ### TODO
 - Add steam API support for checking bans.
